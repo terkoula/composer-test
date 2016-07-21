@@ -1,8 +1,8 @@
 {
-    "name": "terkoula/composer-test",
+    "name": "ComposerTest",
     "autoload": {
         "psr-0" : {
-            "Terkoula\\Composer-test" : "src"
+            "ComposerTest" : "src"
         }
     }
 }
